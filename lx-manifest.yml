@@ -1,0 +1,12 @@
+id: sample-node-project
+name: sample-node-project
+description: CI/CD revamped
+self: https://github.com/DigginToOtherSide/ExampleSpringbootApp/blob/main/lx-manifest.yml
+owner: my.owner@leanix.net
+teams:
+  - cider
+products:
+  - leanix-vsm
+links:
+  - name: vcs
+    url: https://github.com/leanix/cicd-connector-v2
