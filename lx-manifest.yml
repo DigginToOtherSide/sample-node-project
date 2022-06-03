@@ -1,7 +1,7 @@
 id: sample-node-project
 name: sample-node-project
 description: CI/CD revamped
-self: https://github.com/DigginToOtherSide/ExampleSpringbootApp/blob/main/lx-manifest.yml
+self: https://github.com/DigginToOtherSide/sample-node-project/blob/main/lx-manifest.yml
 owner: my.owner@leanix.net
 teams:
   - cider
